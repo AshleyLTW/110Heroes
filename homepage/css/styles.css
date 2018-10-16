@@ -1,0 +1,85 @@
+/*******************
+ * Problem Set 5   *
+ * CS50, Fall 2018 *
+ *******************/
+
+/* index.html*/
+.index
+{
+    background-image: url("../assets/serious.jpg");
+    background-size: cover;
+    background-position: center top;
+    /* if image unavailable */
+    background-color: #000000;
+}
+
+.welcome
+{
+    text-align: center;
+    color: rgba(255,250,250, 0.9);
+    margin-top: 2%;
+}
+
+#welcomeHeader
+{
+    font-size: 90px;
+
+
+}
+
+/* about_us.html */
+
+.about
+{
+    background-color: #ffffff;
+}
+
+/* setting colour and margin for all titles*/
+.titling
+{
+    color: #A41034;
+    margin-top: 2%;
+}
+
+/* setting margins for all blocks of text*/
+.text
+{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.content
+{
+    margin-top: 3%;
+}
+
+/* contact_us.html */
+
+.contact
+{
+    background-color: #000000;
+}
+
+#contact_title
+{
+    text-align: center;
+}
+
+#contact_btn
+{
+    margin-top: 10%;
+}
+
+/* staff.html */
+.footnote
+{
+    color: #808080;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.card h5
+{
+    text-align: center;
+}
